@@ -1,0 +1,9 @@
+upd-creator-files.sh
+*~
+/@BUILD*
+/*.config
+/*.creator
+/*.creator.user
+/*.files
+/*.includes
+*.log
