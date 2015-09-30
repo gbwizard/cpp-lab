@@ -3,6 +3,7 @@ upd-creator-files.sh
 /@BUILD*
 /*.config
 /*.creator
+/*.user
 /*.creator.user
 /*.files
 /*.includes
