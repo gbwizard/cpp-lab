@@ -7,3 +7,4 @@ include_directories(
 add_subdirectory(common)
 add_subdirectory(algo)
 add_subdirectory(tasks)
+add_subdirectory(linux)
